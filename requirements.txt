@@ -5,3 +5,4 @@ geopandas
 # Add other dependencies your code needs
 pytest
 pytest-cov
+selenium
