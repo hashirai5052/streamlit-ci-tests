@@ -1,5 +1,5 @@
 # codee/__init__.py
-from .codee import (
+from codee import (
     contains_open_house,
     extract_phone_numbers,
     normalize_phone,
@@ -10,6 +10,6 @@ from .codee import (
     # …etc
 )
 # In test_codee.py
-from codee.codee import close_geometry  # Import specific functions
+from codee import close_geometry  # Import specific functions
 import codee
   # Import the whole module
