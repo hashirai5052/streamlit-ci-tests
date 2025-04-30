@@ -1,0 +1,8 @@
+setup.py
+codee/__init__.py
+codee/codee.py
+codee.egg-info/PKG-INFO
+codee.egg-info/SOURCES.txt
+codee.egg-info/dependency_links.txt
+codee.egg-info/top_level.txt
+tests/test_codee.py

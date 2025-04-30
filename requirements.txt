@@ -1,0 +1,7 @@
+pytest>=7.0
+pytest-mock
+spacy
+geopandas
+# Add other dependencies your code needs
+pytest
+pytest-cov
